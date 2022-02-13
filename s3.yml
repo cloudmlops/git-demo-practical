@@ -6,7 +6,7 @@ Description: >-
 
 Parameters:
   BucketNameParam:
-    Description: The S3 Bucket Name (only lowercase characters supported)
+    Description: The S3 Bucket (only lowercase characters supported)
     Type: String
   EnvironmentName:
     Description: SDLC Environment Value e.g dev/qa/prod.
